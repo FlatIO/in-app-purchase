@@ -16,7 +16,7 @@
   "request": "2.88.2",
   "urlsafe-base64": "^1.0.0",
   "xml-crypto": "3.0.1",
-  "@xmldom/xmldom": "0.8.5"
+  "@xmldom/xmldom": "0.8.6"
  },
  "devDependencies": {
   "mocha": "10.1.0",
